@@ -1,0 +1,9 @@
+<h3>Plataformas de recursos livres, abertos e/ou federados</h3>
+<ul>
+<li><a href="https://fediverse.party/" target="_blank">Fediverse Party</a></li>
+<li><a href="https://tchncs.de/" target="_blank">tchncs.de</a></li>
+<li><a href="https://disroot.org/en" target="_blank">Disroot</a></li>
+<li><a href="https://framasoft.org/en/" target="_blank">Framasoft</a></li>
+<li><a href="https://degooglisons-internet.org/en/" target="_blank">De-Google-ify Internet</a></li>
+<li><a href="https://bolha.io/" target="_blank">Bolha.io</a></li>
+</ul>

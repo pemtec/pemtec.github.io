@@ -1,0 +1,35 @@
+<h3><i>Softwares</i> e serviços</h3>
+<br>
+<h4>Para gestão de projetos</h4>
+<ul>
+<li><a href="https://www.projectlibre.com/" target="_blank">Project Libre</a> 
+<i>ProjectLibre was founded by Marc O'Brien and Laurent Chrettieneau.  ProjectLibre has grown into a global provider of project management software with both a Cloud version and desktop open source replacement of Microsoft Project. We have succeeded in our mission with the #1 alternative to Microsoft Project and the Cloud version now has subscribing companies and Universities.   ProjectLibre has 7,000,000 desktop downloads in over 193 countries and translated into 29 languages. ProjectLibre Cloud is revolutionary SaaS team solution.  Manage projects in your browser anywhere in the work with your team. We are having a a major impact on Microsoft Project by replacing a bloated, expensive and complex architecture with a simple cloud login from anywhere in the world.</i> [Informações do <i>site</i> do Project Libre em 27 mar. 2024.]</li>
+<li><a href="https://kanboard.org/" target="_blank">Kanboard</a> 
+<i>Kanboard is a free and open source Kanban project management software.</i> [Informações do <i>site</i> do Kanboard em 27 mar. 2024.]</li>
+<li><a href="https://www.onlinegantt.com/#/gantt" target="_blank">Online GANTT</a> 
+<i>Free Online Gantt Chart Software. No Signup and No Download Required. 100% Free Forever.</i> [Informações do <i>site</i> do Online GANTT em 03 abr. 2024.]</li>
+</ul><br>
+<h4>Educacionais</h4>
+<ul>
+<li><a href="https://gcompris.net/index-pt_BR.html" target="_blank">GCompris</a> 
+<i>GCompris é uma suíte de aplicativos educacionais de alta qualidade, incluindo um grande número de atividades para crianças com idade entre 2 e 10 anos. Algumas das atividades são de orientação lúdica, mas sempre com um caráter educacional.</i> [Informações do <i>site</i> do GCompris em 21 fev. 2024.]</li>
+</ul><br>
+<h4>Leitor de livros eletrônicos e documentos</h4>
+<ul>
+<li><a href="https://calibre-ebook.com/pt" target="_blank">Calibre</a>
+<i>O Calibre é um gestor de ebooks poderoso e fácil de usar. Os utilizadores dizem que é impressionante e um item obrigatório. O programa permite-lhe fazer praticamente tudo com os ebooks e eleva o seu trabalho a um nível acima de um software de ebooks normal. Também é completamente grátis e de código aberto, sendo perfeito quer para utilizadores ocasionais quer para especialistas em informática.</i> [Informações do <i>site</i> do Calibre em 11 jan. 2024.]</li>
+</ul>
+<br>
+<h4>Estatísticos</h4>
+<ul>
+<li><a href="https://cloud.r-project.org/index.html" target="_blank">R</a> 
+<i>R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.</i> [Informações do <i>site</i> do R em 27 mar. 2024.]</li>
+<li><a href="https://www.jamovi.org/" target="_blank">jamovi</a> 
+<i>jamovi is a new “3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. jamovi is built on top of the R statistical language, giving you access to the best the statistics community has to offer. would you like the R code for your analyses? jamovi can provide that too. jamovi will always be free and open - that's one of our core values - because jamovi is made by the scientific community, for the scientific community.</i> [Informações do <i>site</i> do jamovi em 27 mar. 2024.]</li>
+<li><a href="https://www.gnu.org/software/pspp/" target="_blank">GNU PSPP</a> 
+<i>GNU PSPP is a program for statistical analysis of sampled data. It is a free as in freedom replacement for the proprietary program SPSS, and appears very similar to it with a few exceptions.</i> [Informações do <i>site</i> do GNU PSPP em 27 mar. 2024.]</li>
+<li><a href="https://www.sofastatistics.com/home.php" target="_blank">SOFA Statistics</a> 
+<i>SOFA is a user-friendly statistics, analysis, & reporting program. It is free, with an emphasis on ease of use, learn as you go, and beautiful output. SOFA lets you display results in an attractive format ready to share. And SOFA will help you learn as you go.</i> [Informações do <i>site</i> do SOFA Statistics em 27 mar. 2024.]</li>
+<li><a href="https://jasp-stats.org/" target="_blank">JASP</a> 
+<i>JASP is an open-source project supported by the University of Amsterdam. JASP has an intuitive interface that was designed with the user in mind. JASP offers standard analysis procedures in both their classical and Bayesian form.</i> [Informações do <i>site</i> do JASP em 27 mar. 2024.]</li>
+</ul><br>

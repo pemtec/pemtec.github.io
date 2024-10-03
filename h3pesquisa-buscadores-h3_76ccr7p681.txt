@@ -1,0 +1,7 @@
+<h3>Motores de pesquisa / buscadores</h3>
+<ul>
+<li><a href="https://www.izito.com/" target="_blank">Izito</a> - metabusca</li>
+<li><a href="https://search.creativecommons.org/" target="_blank">Search Creative Commons</a></li>
+<li><a href="https://searx.thegpm.org/" target="_blank">Searx</a> - metabusca</li>
+<li><a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a></li>
+</ul>

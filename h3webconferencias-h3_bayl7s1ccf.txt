@@ -1,0 +1,13 @@
+<h3>Webconferências</h3>
+<br>
+<h4><a href="https://jitsi.org/" target="_blank">Jitsi (instâncias)</a></h4>
+<ul>
+<li><a href="https://meet.jit.si/" target="_blank">Jitsi Meet</a></li>
+<li><a href="https://calls.disroot.org/" target="_blank">Calls Disroot</a></li>
+</ul>
+<br>
+<h4>Outros serviços, baseados no <a href="https://bigbluebutton.org/" traget="-blank">Big Blue Button (BBB)</a></h4>
+<ul>
+<li><a href="https://conferenciaweb.rnp.br/" target="_blank">Conferência Web da RNP</a> [acesso gratuito a uma sala pessoal para até cinco participantes; possibilidade de transmissão ao vivo.]</li>
+<li><a href="https://elos.vc/site/" target="_blank">Elos</a> [acesso gratuito a uma sala pessoal para até cinco participantes; possibilidade de transmissão ao vivo e gravações limitadas.]</li>
+</ul>

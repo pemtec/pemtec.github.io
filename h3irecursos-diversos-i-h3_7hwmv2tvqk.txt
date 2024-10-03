@@ -1,0 +1,15 @@
+<h3><i>Recursos diversos</i></h3>
+<br>
+<ul>
+<li><a href="https://herman.bearblog.dev/markdown-cheatsheet/" target="_blank">Markdown cheatsheet</a> [Guia rápido da linguagem de marcação Markdown. Útil para editores de texto e HTML minimalistas e focados. Em <b>inglês</b>.]</li>
+<li><a href="https://docs.bearblog.dev/mathematical-notation/" target="_blank">Notação matemática com LaTeX</a> [Guia rápido de notação matemática com LaTeX. <b>Em inglês</b>.]</li>
+<li><a href="https://www.autoradstudio.com/" target="_blank">AutoRadStudio</a>
+<i>"[...] uma coleção de ferramentas construtoras/geradoras gratuitas e rápidas que rodam no lado do cliente. Nossas ferramentas são escritas em C# e compiladas para WebAssembly, permitindo que você aproveite seu poder de processamento para obter desempenho ideal. Oferecemos uma variedade de ferramentas que geram arquivos como mapas estelares, códigos QR e embalagens de copos. Para usar nossas ferramentas, basta inserir seus dados de entrada e baixar os arquivos de saída em formato SVG, PNG ou PDF."</i> [Tradução das informações do <i>site</i> do AutoRadStudio em 22 jan. 2024.]</li>
+</ul>
+<br>
+<h4><i>Downloads</i> de artigos e livros</h4>
+<ul>
+<li><a href="https://zlibrary-asia.se/" target="_blank">Z-Library</a></li>
+<li><a href="https://libgen.is/" target="_blank">Library Genesis</a></li>
+<li><a href="https://sci-hub.se/" target="_blank">Sci-Hub</a></li>
+</ul>

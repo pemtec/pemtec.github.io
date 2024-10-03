@@ -1,0 +1,7 @@
+<h3>Plataformas de compartilhamento e colaboração</h3>
+<br>
+<h4>Nextcloud - instâncias</h4>
+<p>Nextcloud é uma plataforma de compartilhamento de dados e arquivos e de colaboração em nuvem de código aberto que possibilita a criação de servidores de hospedagem de arquivos privados ou empresariais.</p>
+<ul>
+<li><a href="https://nch.pl/" target="_blank">NCH</a></li>
+</ul>

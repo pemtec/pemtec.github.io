@@ -1,0 +1,13 @@
+<h3><i>Microblogging</i></h3>
+<br>
+<h5><a href="https://joinmastodon.org/" target="_blank">Mastodon</a></h5><ul>
+<li><a href="https://stuff.lema.org/mastobr/" target="_blank">Lista de instâncias Mastodon em português</a> [Acesso em: 11 jan. 2024]</li>
+<li><a href="https://ayom.media/" target="_blank">ayom.media (BRA)</a>
+<i>A Ayom está em construção contínua e tem como intenção primária ser uma experiência de instância auto-gestionada focada em pessoas afro-ameríndias, comunistas e/ou anarquistas.</i> Inscrições abertas e revisadas manualmente pelos moderadores. [Informações da instância em 11 jan. 2024].</li>
+<li><a href="https://masto.donte.com.br/" target="_blank">Mastodonte (BRA)</a>
+<i>O masto.donte.com.br é uma instância do Mastodon voltada para pessoas Brasileiras, mas pessoas que não falam português ou que postam em mais de uma lingua são igualmente bem vindas. Essa instância é moderada. Tentamos ser um espaço feminista, antiracista, anticolonialista, acessível e inclusivo à pessoas trans e não-binárias.</i> Inscrições fechadas. Possibilidade de inscrição por convite de membros ativos. [Informações da instância em 11 jan. 2024].</li>
+<li><a href="https://bantu.social/" target="_blank">Bantu (BRA)</a>
+<i>A Bantu é uma instância do Mastodon voltada para pessoas não-brancas brasileiras.</i> Inscrições abertas com revisão manual e necessidade de aprovação pela moderação [Informações da instância em 22 jan. 2024].</li>
+<li><a href="https://bertha.social/" target="_blank">Bertha (BRA)</a>
+<i>Bertha.social é uma comunidade de mensagens curtas curada por cientistas que visa promover a divulgação científica. É um ponto de encontro para cientistas, divulgadores e simpatizantes.</i> Inscrições abertas com revisão manual e necessidade de aprovação pela moderação [Informações da instância em 22 jan. 2024].</li>
+</ul>

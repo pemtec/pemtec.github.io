@@ -1,0 +1,7 @@
+<h3><i>Softwares</i></h3>
+<br>
+<h4>Leitor de livros eletrônicos e documentos</h4>
+<ul>
+<li><a href="https://calibre-ebook.com/pt" target="_blank">Calibre</a>
+<i>O Calibre é um gestor de ebooks poderoso e fácil de usar. Os utilizadores dizem que é impressionante e um item obrigatório. O programa permite-lhe fazer praticamente tudo com os ebooks e eleva o seu trabalho a um nível acima de um software de ebooks normal. Também é completamente grátis e de código aberto, sendo perfeito quer para utilizadores ocasionais quer para especialistas em informática.</i> [Informações do <i>site</i> do Calibre em 11 jan. 2024.]</li>
+</ul>

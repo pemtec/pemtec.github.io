@@ -1,0 +1,23 @@
+<h3><i>Blogs</i> e <i>sites</i></h3>
+<br>
+<h4><a href="https://writefreely.org/" target="_blank">Writefreely (instâncias)</a></h4>
+<ul>
+<li><a href="https://qua.name/" target="_blank">Qua Name</a></li>
+</ul>
+<br>
+<h4>Outros recursos para <i>blogs</i></h4>
+<ul>
+<li><a href="https://pages.github.com/" target="_blank">Github Pages</a></li>
+<li><a href="https://crieaporradeum.blog/" target="_blank">Crie a porra de um blog!</a></li>
+<li><a href="https://zonelets.net/" target="_blank">Zonelets</a></li>
+<li><a href="https://micro.blog/" target="_blank">Micro.blog</a></li>
+<li><a href="https://gohugo.io/" target="_blank">Hugo</a></li>
+<li><a href="https://jekyllrb.com/" target="_blank">Jekyll</a></li>
+<li><a href="https://www.11ty.dev/" target="_blank">11ty [Eleventy]</a></li>
+<li><a href="https://bearblog.dev/" target="_blank">Bear Blog [<i>blogs</i> minimalistas, baseados em texto e sem <i>upload</i> de imagens na conta gratuita]</a></li>
+</ul>
+<br>
+<h4><i>Sites</i></h4>
+<ul>
+<li><a href="https://neocities.org/" target="_blank">Neocities</a></li>
+</ul>

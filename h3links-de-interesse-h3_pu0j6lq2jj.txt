@@ -1,0 +1,52 @@
+<h3>Links de interesse</h3>
+<br>
+<h4>Edição de PDF <i>online</i></h4>
+<ul>
+<li><a href="https://spdf.bolha.tools/" target="_blank">Stirling PDF (na Bolha.io)</a>
+["<i>Your locally hosted one-stop-shop for all your PDF needs.</i>"]</li>
+</ul>
+<br><h4><i>Software</i> livre e <i>Open Source</i> [código aberto]</h4>
+<ul>
+<li><a href="https://livreeaberto.com/" target="_blank">Livre e Aberto</a>
+["<i>'Livre e Aberto' é um blog com artigos sobre Software Livre e de Código Aberto para a comunidade que fala português do Brasil. Livre e aberto é um portal da web que se concentra em Código Aberto em geral e Linux em particular.</i>"]</li>
+</ul>
+<br>
+<h4>Programação</h4>
+<ul>
+<li><a href="https://code.org/" target="_blank">Code.org</a>
+<i>O Code.org é uma organização de inovação no ensino sem fins lucrativos, dedicada à visão de que todo aluno em qualquer escola tenha a oportunidade de aprender ciência da computação como parte da sua formação no sistema K-12. Ampliamos o acesso à ciência da computação nas escolas, com foco na participação cada vez maior de mulheres jovens e alunos de outros grupos subrepresentados. O principal fornecedor de ciência da computação no currículo K-12 no maior distrito escolar dos Estados Unidos, o Code.org também organiza a campanha anual Hour of Code, que já abrange mais de 15% de todos os estudantes do mundo. O Code.org tem o apoio de generosos doadores, incluindo Microsoft, Amazon, Google e muitos outros.</i> [Informações do <i>site</i> do Code.org em 26 fev. 2024.]</li>
+<li><a href="https://s4a.cat/" target="_blank">S4A [Scratch for Arduino]</a>
+<i>S4A is a Scratch modification that allows for simple programming of the Arduino open source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one. The main aim of the project is attracting people to the programming world. The goal is also to provide a high level interface to Arduino programmers with functionalities such as interacting with a set of boards through user events.</i> [Informações do <i>site</i> do S4A em 26 fev. 2024.]</li>
+<li><a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
+<i>O Scratch é a maior comunidade do mundo de programação para crianças e uma linguagem de programação com uma interface visual simples que permite que os jovens criem histórias, jogos e animações digitais. O Scratch é projetado, desenvolvido e moderado pela Fundação Scratch , uma organização sem fins lucrativos. O Scratch promove o pensamento computacional e habilidades de resolução de problemas; ensino e aprendizagem criativos; autoexpressão e colaboração; e equidade em computação. O Scratch sempre será gratuito e está disponível em mais de 70 idiomas.</i> [Informações do <i>site</i> do Scratch em 26 fev. 2024.]</li>
+<li><a href="https://herman.bearblog.dev/markdown-cheatsheet/" target="_blank">Markdown cheatsheet</a>
+[Guia rápido da linguagem de marcação Markdown. Útil para editores de texto e HTML minimalistas e focados. Em <b>inglês</b>.]</li>
+<li><a href="https://docs.bearblog.dev/mathematical-notation/" target="_blank">Notação matemática com LaTeX</a>
+[Guia rápido de notação matemática com LaTeX. <b>Em inglês</b>.]</li>
+<li><a href="https://www.autoradstudio.com/" target="_blank">AutoRadStudio</a>
+<i>"[...] uma coleção de ferramentas construtoras/geradoras gratuitas e rápidas que rodam no lado do cliente. Nossas ferramentas são escritas em C# e compiladas para WebAssembly, permitindo que você aproveite seu poder de processamento para obter desempenho ideal. Oferecemos uma variedade de ferramentas que geram arquivos como mapas estelares, códigos QR e embalagens de copos. Para usar nossas ferramentas, basta inserir seus dados de entrada e baixar os arquivos de saída em formato SVG, PNG ou PDF."</i> [Tradução das informações do <i>site</i> do AutoRadStudio em 22 jan. 2024.]</li>
+</ul>
+<br>
+<h4><i>Downloads</i> de artigos e livros</h4>
+<ul>
+<li><a href="https://zlibrary-asia.se/" target="_blank">Z-Library</a></li>
+<li><a href="https://libgen.is/" target="_blank">Library Genesis</a></li>
+<li><a href="https://sci-hub.se/" target="_blank">Sci-Hub</a></li>
+</ul><br>
+<h4>Selfhosting</h4>
+<ul>
+<li><a href="https://growyourown.services/" target="_blank">Grow your own services</a></li>
+<li><a href="https://crieaporradeum.blog/" target="_blank">Crie a porra de um <i>blog</i>!</a></li>
+</ul>
+<br>
+<h4>Fediverso, redes federadas e descentralizadas</h4>
+<ul>
+<li><a href="https://degooglisons-internet.org/en/" target="_blank">De-Google-Ify Internet</a></li>
+<li><a href="https://fediverse.party/" target="_blank">Fediverse Party</a></li>
+</ul>
+<br>
+<h4>Plataformização da Internet</h4>
+<ul>
+<li><a href="https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization" target="_blank">How Google perfected the web</a></li>
+<li><a href="https://degooglisons-internet.org/en/" target="_blank">De-Google-Ify Internet</a></li>
+</ul>

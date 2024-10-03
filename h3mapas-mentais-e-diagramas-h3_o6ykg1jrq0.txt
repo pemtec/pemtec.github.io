@@ -1,0 +1,6 @@
+<h3>Mapas mentais e diagramas</h3>
+<ul>
+<li><a href="https://xmind.app/" target="_blank">Xmind</a></li>
+<li><a href="https://www.drawio.com/" target="_blank">Draw.io (Diagrams.net)</a></li>
+<li><a href="https://cmap.ihmc.us/" target="_blank">Cmap Tools</a> [Dica de instalação no Linux <a href="https://www.edivaldobrito.com.br/como-instalar-o-software-de-mapeamento-ihmc-cmaptools-no-linux/#" target="_blank"><b>aqui</b></a>.]</li>
+</ul>
